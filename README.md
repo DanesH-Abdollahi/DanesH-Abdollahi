@@ -8,6 +8,5 @@
 - 💡 Electrical (Telecommunications) & Computer (as minor) Engineering Student at Amirkabir University of Technology
 
 <div align="center">
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanesH-Abdollahi&show_icons=true&locale=en&layout=compact" alt="DanesH-Abdollahi" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanesH-Abdollahi&layout=compact&hide=TSQL&theme=radical" alt="DanesH-Abdollahi" />
 </div>
-
