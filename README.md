@@ -18,5 +18,6 @@
 
   
 </div>
-
+<div align="center">
 ![Visitor Count](https://profile-counter.glitch.me/{DanesH-Abdollahi}/count.svg)
+</div>
