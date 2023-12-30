@@ -6,7 +6,7 @@
 [![Github](https://img.shields.io/github/followers/DanesH-Abdollahi?label=Follow&style=social)](https://github.com/DanesH-Abdollahi)
 
 - 💡 Electrical (Telecommunications) & Computer (as minor) Engineering Student at Amirkabir University of Technology
-
+<img src="https://t.bkit.co/w_65908e66cbe35.gif" />
 <div align="center">
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanesH-Abdollahi&layout=compact&hide=TSQL&theme=radical" alt="DanesH-Abdollahi" />
 </div>
