@@ -19,7 +19,6 @@
   
 </div>
 
-<script>
 <!-- Default Statcounter code for Github Profile
 http://github.com/DanesH-Abdollahi -->
 <script type="text/javascript">
@@ -35,5 +34,4 @@ class="statcounter" src="https://c.statcounter.com/12953498/0/f008df98/1/"
 alt="Web Analytics Made Easy - Statcounter"
 referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
 <!-- End of Statcounter Code -->
-</script>
 
